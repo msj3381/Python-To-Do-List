@@ -6,5 +6,5 @@
 I made an simple to-do list using Tkinter of Python.  
 You can add a to-do thing and delete it by selecting it.
 
-<img src="./python-todo-list/image-1.png" width="800"/>
+<img src="./python-todo-list/image-1.png" width="500"/>
 
