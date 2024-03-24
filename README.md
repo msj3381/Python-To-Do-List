@@ -3,6 +3,8 @@
 할 일을 추가한 후 선택하여 삭제가 가능합니다.
 
 # Simple To Do List Using Python
-I made an simple to-do list using Tkinter of Python.
+I made an simple to-do list using Tkinter of Python.  
 You can add a to-do thing and delete it by selecting it.
+
+<img src="./python-todo-list/image-1.png" width="1000"/>
 
